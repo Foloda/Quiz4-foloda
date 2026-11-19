@@ -1,3 +1,4 @@
 itle: My App, 
+author: Foloda,
 author: Skillwill Team,
 year: 2026.
