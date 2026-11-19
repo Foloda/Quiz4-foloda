@@ -1,4 +1,8 @@
 itle: My App, 
 author: Foloda,
 author: Skillwill Team,
+<<<<<<< HEAD
 year: 2025.
+=======
+year: 2027.
+>>>>>>> b8924e0a33f2b9577cb83af03c7e5394f31d1757
